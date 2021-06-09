@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "@jaakidup/hello-world",
   "version": "0.1.0",
   "description": "hello-world",
   "keywords": [
@@ -19,12 +19,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaakidup/lerna-setup.git"
+    "url": "git@github.com:jaakidup/lerna-setup.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/jaakidup/lerna-setup/issues"
-  }
+  },
+  "gitHead": "d0b1e1180b3a7705a7209297d67a375b76dc3f9b"
 }

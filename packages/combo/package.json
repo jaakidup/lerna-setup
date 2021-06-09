@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/jaakidup/lerna-setup/issues"
+  },
+  "dependencies": {
+    "@jaakidup/hello-world": "^0.2.2"
   }
 }

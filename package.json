@@ -3,5 +3,9 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "@jaakidup/aloha-world": "^0.2.1",
+    "@jaakidup/hello-world": "^0.2.1"
   }
 }

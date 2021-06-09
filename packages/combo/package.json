@@ -1,6 +1,6 @@
 {
   "name": "@jaakidup/combo",
-  "version": "0.2.1",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "Jacques du Plessis <jaakidup@gmail.com>",
   "homepage": "https://github.com/jaakidup/lerna-setup#readme",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaakidup/lerna-setup.git"
+    "url": "git@github.com:jaakidup/lerna-setup.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

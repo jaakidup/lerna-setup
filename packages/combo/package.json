@@ -1,0 +1,26 @@
+{
+  "name": "@jaakidup/combo",
+  "version": "0.1.2",
+  "description": "> TODO: description",
+  "author": "Jacques du Plessis <jaakidup@gmail.com>",
+  "homepage": "https://github.com/jaakidup/lerna-setup#readme",
+  "license": "ISC",
+  "main": "lib/combo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaakidup/lerna-setup.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jaakidup/lerna-setup/issues"
+  }
+}
